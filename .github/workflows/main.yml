@@ -110,4 +110,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         repository_username: ${{ secrets.PYPI_USERNAME }}
-        repository_password: ${{ secrets.PYPI_PASSWORD }} 
+        repository_password: ${{ secrets.PYPI_PASSWORD }}  
